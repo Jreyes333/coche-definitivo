@@ -3,7 +3,7 @@ package coche;
 
 /**
  *
- * @author Fran
+ * @author Juan Reyes
  */
 public class Main {
     
